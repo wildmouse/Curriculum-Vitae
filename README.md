@@ -4,39 +4,56 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|名前|野口 司(Noguchi Tsukasa)|
+|Qiita|[@wildmouse](https://qiita.com/wildmouse)|
+|Twitter|[@wildmouse_](https://twitter.com/wildmouse_)|
+|英語力|TOEIC 725点|
+
+## 概要
 
 ## スキル
 ### 言語
-- Ruby
-- PHP
-- Java
-- などなど
+Kotlin / Java / TypeScript / JavaScript / C# / PHP
 
 ### フレームワーク
+#### バックエンド
+Spring Boot / .NET MVC / CakePHP
 
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+#### フロントエンド
+React.js / Next.js / Vue.js / Nuxt.js / Jest / Enzyme / jQuery 
 
 ### その他
+#### 全般
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+GitHub Enterprise / Docker 
+
+#### フロントエンド
+
+Storybook / Atomic Design
+
+#### バックエンド
+
+ REST API / Swagger / Nginx / Flyway
+
+#### クラウド
+
+OpenStack Nova(≒ AWS EC2) / OpenStack Trove(≒ AWS RDS) / OpenStack Designate(≒ AWS Route 53)
+
+#### RDB/NoSQL 
+MySQL / PostgreSQL / OracleDB / Redis
+
+#### DevOps・監視 
+Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ## 言語
 
-- 日本語
-  - ネイティブ
+- 日本語: ネイティブ
 - 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+  - 英語のドキュメントを多少の時間をかけて読み込むことができる
+  - 簡単な日常会話ができる
+  - TOEIC: 725点
 
 ## 強み
-
-## やったことはないが興味があるもの
 
 ## 職務経歴
 
@@ -61,16 +78,3 @@
 ### 社外プロジェクト
 * [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
 * [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
-
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
