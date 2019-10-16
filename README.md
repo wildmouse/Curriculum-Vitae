@@ -36,7 +36,7 @@ Storybook / Atomic Design
 
 #### バックエンド
 
- REST API / Swagger / Nginx / Flyway
+REST API / Swagger / Nginx / Flyway / SOAP 
 
 #### クラウド
 
@@ -72,13 +72,11 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - Spring Boot 1系から2系へのマイグレーション
 - オンプレミス環境からアプリケーションおよびDBのマイグレーション
 
-発揮したバリュー: 
-
-### キャンペーンサイト開発サポート(2019/08 ~ 現在)
+### ゲームイベントサイト開発サポート(2019/08 ~ 現在)
 
 技術スタック: Kotlin / Spring Boot / React / TypeScript / React Hooks / React Testing Library / Ansible / OpenStack
 
-プロジェクト概要: 
+プロジェクト概要: ゲームの運用がX周年を迎えるに際して開催されるイベント用特設ページの開発
 
 担当業務: 
 
@@ -87,13 +85,11 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - フロントエンド/バックエンド開発のPRレビュー
 - 急務の対応が必要になった際の自分で手を動かしての開発(比率としてはレビュー8割、開発2割程度)
 
-発揮したバリュー: 
-
 ### LP用CMS開発および監視環境・通知アプリケーション開発(2019/06 - 2019/09)
 
 技術スタック: Kotlin / Spring Boot / Ansible / Jenkins / Nginx / Consul / Prometheus / Alertmanager / Grafana / OpenStack / Microservices
 
-プロジェクト概要: 
+プロジェクト概要: 現場社内で量産しているランディングページの制作コストを削減するためのCMSの構築、およびアプリケーションを監視するための監視環境構築、そして監視のアラートにヒットした際の通知を一元管理する通知アプリケーションの開発。
 
 担当業務: 
 
@@ -104,13 +100,11 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - アプリケーションメトリクスを利用した監視環境の構築
 - アラート通知用アプリケーションの開発
 
-発揮したバリュー: 
-
 ### Vue(Nuxt.js)プロジェクトのReact(Next.js)での再構築作業及び機能追加開発(2019/02 ~ 2019/05)
 
 技術スタック: React.js / Next.js / React-Redux / Atomic Design / Storybook / Jest / Enzyme
 
-プロジェクト概要: 
+プロジェクト概要: 現場社内開発方針の変更に伴う、Vue.jsおよびNuxt.jsで開発されたフロントエンドのReact.jsおよびNext.jsによる再構築作業、および新規要件の開発作業
 
 担当業務: 
 
@@ -121,13 +115,11 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - Atomic DesignおよびStorybookの導入
 - JestおよびEnzymeの導入
 
-発揮したバリュー: 
-
 ### シェアリングサイトおよび管理サイト計3サイトの新規開発(2018/08 ~ 2019/01)
 
 技術スタック: Vue.js / Nuxt.js / TypeScript / Vuex
 
-プロジェクト概要: 
+プロジェクト概要: ゲームのプレイ内容のシェアリングページ(投稿側/講読側)および管理サイトのフロントエンド部分の開発
 
 担当業務: 
  
@@ -136,38 +128,33 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - パブリックサイト用のSSRアーキテクチャの導入
 - ペアプログラミングによるチームメンバーへの技術教育
 
-発揮したバリュー: 
-
 ### スマホゲームのサーバーサイドおよび管理者ページ開発案件(2018/06 ~ 2018/07)
 
-技術スタック: Java / Spring Boot 
+技術スタック: Java / Spring Boot / Flyway / MySQL
 
-プロジェクト概要: 
+プロジェクト概要: スマホゲームのサーバーサイド開発を担当
 
 担当業務: 
 
 - バックエンドのロジック部分の開発
 - 参画時に不足していたユニットテストの追加によるカバレッジ向上
 
-発揮したバリュー: 
+### 製造会社向け資産管理システムの構築(2018/02 ~ 2018/05)
 
-### 資産管理システムの構築(2018/02 ~ 2018/05)
+技術スタック: C# / .NET MVC / Oracle Database / jQuery
 
-技術スタック: C# / .NET MVC / Oracle Database
-
-プロジェクト概要: 
+プロジェクト概要: 製造会社の資産を管理するシステムにおける、資産の譲渡部分のフロントエンドおよびロジック開発を担当
 
 担当業務: 
 
+- フロントエンド部分の開発
 - バックエンドのロジック部分の開発
-
-発揮したバリュー: 
 
 ### 納品情報管理サイトの追加開発案件(2016/10 ~ 2017/03, 2017/10 ~ 2018/01)
 
-技術スタック: Java / Spring Boot / AWS S3
+技術スタック: Java / Spring Boot / DBUnit / AWS S3 / SOAP
 
-プロジェクト概要: 
+プロジェクト概要: 製造会社の別企業様への製品の納品情報を管理するサイトにおける、機能の追加開発
 
 担当業務: 
 
@@ -175,13 +162,11 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - ユニットテストが存在しなかったアプリケーションへのテストの導入
 - DBUnitを利用したデータベースレイヤを含めた包括的なユニットテストの作成
 
-発揮したバリュー: 
-
 ### 営業支援システム販売用ECサイトの新規開発(2017/04 ~ 2017/09)
 
 技術スタック: PHP / CakePHP / PostgreSQL 
 
-プロジェクト概要: 
+プロジェクト概要: 営業支援システムを販売するECサイトにおける要件定義、設計、開発のフローを担当
 
 担当業務: 
 
@@ -189,18 +174,13 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - チームマネジメント
 - アプリケーション開発
 
-発揮したバリュー: 
-
 ### 転職サイト3サイトの保守追加開発(2015 ~ 2016)
 
 技術スタック: PHP / CakePHP / MySQL 
 
-プロジェクト概要: 
+プロジェクト概要: 転職サイトにおける保守業務および新規機能追加開発
 
 担当業務: 
 
 - 追加機能開発の詳細設計、開発、およびテストの実施
 - 開発機能のデプロイ作業
-
-発揮したバリュー: 
-
