@@ -138,7 +138,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 発揮したバリュー: 
 
-### スマホゲームのサーバーサイドおよび管理者ページ開発案件(2018/06 ~ 2018/07)
+### スマホゲームのサーバーサイドおよび管理者ページ開発案件(2018/06 ~ 2018/07)
 
 技術スタック: Java / Spring Boot 
 
