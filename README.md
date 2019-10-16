@@ -151,7 +151,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 発揮したバリュー: 
 
-### 自動車メーカ用資産管理システムの構築(2018/02 ~ 2018/05)
+### 資産管理システムの構築(2018/02 ~ 2018/05)
 
 技術スタック: C# / .NET MVC / Oracle Database
 
