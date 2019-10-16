@@ -74,7 +74,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 発揮したバリュー: 
 
-### ゲームキャンペーンサイト開発サポート(2019/08 ~ 現在)
+### キャンペーンサイト開発サポート(2019/08 ~ 現在)
 
 技術スタック: Kotlin / Spring Boot / React / TypeScript / React Hooks / React Testing Library / Ansible / OpenStack
 
