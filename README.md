@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|名前|野口 司(Noguchi Tsukasa)|
+|名前|wildmouse|
 |Qiita|[@wildmouse](https://qiita.com/wildmouse)|
 |Twitter|[@wildmouse_](https://twitter.com/wildmouse_)|
 |英語力|TOEIC 725点|
