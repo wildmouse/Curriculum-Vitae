@@ -46,7 +46,7 @@ REST API / Swagger / Nginx / Flyway / SOAP / WebFlux
 
 #### クラウド
 
-プライベートクラウド(AWS EKS, EC2, RDS, Route 53, S3, 相当)
+プライベートクラウド(AWS EKS, EC2, RDS, Route 53, S3, ElastiCache 相当)
 
 #### RDB/NoSQL 
 MySQL / PostgreSQL / OracleDB / Redis
