@@ -14,8 +14,7 @@
 - 新規開発案件あるいは既存サービスのリプレイス案件において、フロントエンドとバックエンド双方の視点からアーキテクチャやインターフェースを設計するなどの、フルスタックな技術的提案および実装が可能なエンジニアです
 - フロントエンドにおいてはTypeScript, React.js, Next.js(SSR), Vue.js, Nuxt.js(SRR)およびテスティングフレームワークやデザインフレームワークを網羅した幅広いスキルを保有・精通しており、万能に対応することが可能です
 - バックエンドにおいてはKotlin, Java, C#, PHPといった複数の言語の業務経験があり、多言語を用いるマイクロサービスへの柔軟な対応が可能ですし、新しい言語の学習意欲も高いため柔軟に対応することが可能です
-(下記記載のスキル欄では業務経験のある言語のみ記述しましたが、プライベートではGo, Haskell, C++などを学んでアプリを書いたり競技プログラミングをやったりしています)
-- クラウドにおいてはOpenStackを用いたクラウド環境の構築経験をもち、DevOpsにおいてはCI/CDパイプラインの対応、および監視環境の構築経験があります
+- クラウドにおいては某社プライベートクラウドを用いたクラウド環境の構築経験をもち、DevOpsにおいては監視環境の構築経験があります。また2020年からはKubernetesを用いたジョブ実行システムの構築を担当し、クラウドネイティブの知見も保有しています。
 - また科学的に証明された業務の効率化や集中力の維持方法などについても論文のキュレーターを通して学んでおり、効率的かつ効果的に業務を進めることができます
 
 ## スキル
@@ -35,7 +34,7 @@ React.js / Next.js / Vue.js / Nuxt.js / Jest / Enzyme / jQuery
 ### その他
 #### 全般
 
-GitHub Enterprise / Docker 
+GitHub Enterprise / Docker / gRPC
 
 #### フロントエンド
 
@@ -43,11 +42,11 @@ Storybook / Atomic Design
 
 #### バックエンド
 
-REST API / Swagger / Nginx / Flyway / SOAP 
+REST API / Swagger / Nginx / Flyway / SOAP / WebFlux 
 
 #### クラウド
 
-OpenStack Nova(≒ AWS EC2) / OpenStack Trove(≒ AWS RDS) / OpenStack Designate(≒ AWS Route 53) / AWS S3
+プライベートクラウド(AWS EKS, EC2, RDS, Route 53, S3, 相当)
 
 #### RDB/NoSQL 
 MySQL / PostgreSQL / OracleDB / Redis
@@ -64,6 +63,19 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
   - TOEIC: 725点
 
 ## 主な職務経歴
+
+### プロダクト予約サイト開発(2019/11 ~ 2020/04)
+
+技術スタック: Kubernetes / gRPC / Armeria / Spring Boot / WebFlux / Rundeck / Kotlin / Docker / Ansible 
+
+プロジェクト概要: 新規プロダクト予約サイトの新規開発
+
+担当業務: 
+
+- KubernetesのJobとRundeck間の連携のための技術的調査及び環境構築・実装
+- バッチ処理のロジック部分の設計
+- Webサイト側のReactive gRPCによるバックエンドAPIの実装
+- 管理サイト側のデータ設計、フロントエンド及びバックエンドの開発
 
 ### 複数のレガシーなオンプレミスSpring Bootアプリケーションの更新及びクラウドへのマイグレーション作業(2019/09 ~ 2019/10)
 
