@@ -64,7 +64,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ## 主な職務経歴
 
-### プロダクト予約サイト開発(2019/11 ~ 2020/04)
+### プロダクト予約サイト開発(2019/11 ~ 現在)
 
 技術スタック: Kubernetes / gRPC / Armeria / Spring Boot / WebFlux / Rundeck / Kotlin / Docker / Ansible 
 
@@ -89,7 +89,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - Spring Boot 1系から2系へのマイグレーション
 - オンプレミス環境からアプリケーションおよびDBのマイグレーション
 
-### ゲームイベントサイト開発サポート(2019/08 ~ 現在)
+### ゲームイベントサイト開発サポート(2019/08 ~ 2019/11)
 
 技術スタック: Kotlin / Spring Boot / React / TypeScript / React Hooks / React Testing Library / Ansible / OpenStack
 
