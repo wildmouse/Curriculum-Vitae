@@ -89,7 +89,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - Spring Boot 1系から2系へのマイグレーション
 - オンプレミス環境からアプリケーションおよびDBのマイグレーション
 
-### ゲームイベントサイト開発サポート(2019/08 ~ 現在)
+### ゲームイベントサイト開発サポート(2019/08 ~ 2019/11)
 
 技術スタック: Kotlin / Spring Boot / React / TypeScript / React Hooks / React Testing Library / Ansible / OpenStack
 
