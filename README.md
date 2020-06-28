@@ -34,7 +34,7 @@ React.js / Next.js / Vue.js / Nuxt.js / Jest / Enzyme / jQuery
 ### その他
 #### 全般
 
-GitHub Enterprise / Docker / gRPC
+GitHub Enterprise / Kubernetes / Docker / gRPC
 
 #### フロントエンド
 
