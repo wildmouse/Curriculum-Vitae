@@ -46,7 +46,7 @@ REST API / Swagger / Nginx / Flyway / SOAP / WebFlux
 
 #### クラウド
 
-プライベートクラウド(AWS EKS, EC2, RDS, Route 53, S3, ElastiCache 相当)
+プライベートクラウド(AWS EKS, EC2, RDS, Route 53, S3, ElastiCache, MSK(Kafka), Elasticsearch 相当)
 
 #### RDB/NoSQL 
 MySQL / PostgreSQL / OracleDB / Redis
@@ -64,7 +64,19 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ## 主な職務経歴
 
-### プロダクト予約サイト開発(2019/11 ~ 現在)
+### ユーザーアクションイベント収集基盤構築(2020/5 ~ 現在)
+
+技術スタック: Apache Kafka / Elasticsearch / Protobuf / Kotlin / Spring Boot / MySQL 
+
+プロジェクト概要: ユーザーアクションイベント収集基盤の構築
+
+担当業務: 
+
+- Apache Kafkaのメッセージングに利用するシリアライズ形式の選定
+- イベント収集基盤の詳細設計、実装およびインフラの構築
+- 収集したイベント情報の集計バッチの設計および実装
+
+### プロダクト予約サイト開発(2019/11 ~ 2020/4)
 
 技術スタック: Kubernetes / gRPC / Armeria / Spring Boot / WebFlux / Rundeck / Kotlin / Docker / Ansible 
 
