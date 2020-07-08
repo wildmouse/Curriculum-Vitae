@@ -49,7 +49,7 @@ REST API / Swagger / Nginx / Flyway / SOAP / WebFlux
 プライベートクラウド(AWS EKS, EC2, RDS, Route 53, S3, ElastiCache, MSK(Kafka), Elasticsearch 相当)
 
 #### RDB/NoSQL 
-MySQL / PostgreSQL / OracleDB / Redis
+MySQL / PostgreSQL / OracleDB / Elasticsearch / Redis
 
 #### DevOps・監視 
 Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
