@@ -64,7 +64,19 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ## 主な職務経歴
 
-### ユーザーアクションイベント収集基盤構築(2020/5 ~ 現在)
+### ノーコード案件新規開発(2020/7 ~ 現在)
+
+技術スタック: Kubernetes / gRPC / Armeria / Spring Boot / WebFlux / Kotlin 
+
+プロジェクト概要: ノーコード新規開発
+
+担当業務: 
+
+- アプリケーション内で横断的に利用するconfig管理ツールの調査と導入
+- Kubernetes + GitOps(ArgoCD)によるデプロイ環境の構築担当
+- Webサイト側のReactive gRPCによるバックエンドAPIの実装
+
+### ユーザーアクションイベント収集基盤構築(2020/5 ~ 2020/6)
 
 技術スタック: Apache Kafka / Elasticsearch / Protobuf / Kotlin / Spring Boot / MySQL 
 
