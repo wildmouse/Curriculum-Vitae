@@ -39,7 +39,7 @@ GitHub Enterprise / Kubernetes / Docker / gRPC
 
 #### ブロックチェーン
 
-Ethereum / Chainlink(Oracles) / The Graph
+Ethereum / Chainlink(Oracles) / The Graph / IPF
 
 #### フロントエンド
 
@@ -69,7 +69,20 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ## 主な職務経歴
 
-### ノーコード案件新規開発(2020/7 ~ 現在)
+### ソーシャルトークンプラットフォーム開発(2020/10 ~ 現在)
+
+技術スタック: Ethereum / Solidity / Chainlink / The Graph / IPFS
+
+プロジェクト概要: 
+- ソーシャルトークンプラットフォーム開発
+- ハッカソン時のデモ: https://hack.ethglobal.co/showcase/iroiro-rec1kljmTWH9KjdDG
+
+担当業務:
+- 基本設計および詳細設計
+- スマートコントラクトの実装
+- ChainlinkおよびThe Graphなどの新規採用技術に関する調査および導入作業
+
+### ノーコード案件新規開発(2020/7 ~ 2020/9)
 
 技術スタック: Kubernetes / gRPC / Armeria / Spring Boot / WebFlux / Kotlin 
 
