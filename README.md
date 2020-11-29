@@ -15,6 +15,7 @@
 - フロントエンドにおいてはTypeScript, React.js, Next.js(SSR), Vue.js, Nuxt.js(SRR)およびテスティングフレームワークやデザインフレームワークを網羅した幅広いスキルを保有・精通しており、万能に対応することが可能です
 - バックエンドにおいてはKotlin, Java, C#, PHPといった複数の言語の業務経験があり、多言語を用いるマイクロサービスへの柔軟な対応が可能ですし、新しい言語の学習意欲も高いため柔軟に対応することが可能です
 - クラウドにおいては某社プライベートクラウドを用いたクラウド環境の構築経験をもち、DevOpsにおいては監視環境の構築経験があります。また2020年からはKubernetesを用いたアプリケーションの環境構築やジョブ実行システムの構築を担当し、クラウドネイティブの知見も保有しています。
+- ブロックチェーン技術においてはEthereumパブリックブロックチェーンを利用したアプリケーションの開発経験があり、またETHGlobal主催のハッカソンでの受賞歴があります。
 - また科学的に証明された業務の効率化や集中力の維持方法などについても論文のキュレーターを通して学んでおり、効率的かつ効果的に業務を進めることができます
 
 ## スキル
@@ -22,7 +23,7 @@
 ※業務経験のあるスキルを列挙しています。
 
 ### 言語
-Kotlin / Java / TypeScript / JavaScript / C# / PHP
+Solidity / Kotlin / Java / TypeScript / JavaScript / C# / PHP
 
 ### フレームワーク
 #### バックエンド
@@ -35,6 +36,10 @@ React.js / Next.js / Vue.js / Nuxt.js / Jest / Enzyme / jQuery
 #### 全般
 
 GitHub Enterprise / Kubernetes / Docker / gRPC
+
+#### ブロックチェーン
+
+Ethereum / Chainlink(Oracles) / The Graph
 
 #### フロントエンド
 
