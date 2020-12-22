@@ -26,11 +26,15 @@
 Solidity / Kotlin / Java / TypeScript / JavaScript / C# / PHP
 
 ### フレームワーク
+
 #### バックエンド
 Spring Boot / .NET MVC / CakePHP
 
 #### フロントエンド
 React.js / Next.js / Vue.js / Nuxt.js / Jest / Enzyme / jQuery 
+
+#### アプリ
+Flutter
 
 ### その他
 #### 全般
@@ -39,7 +43,7 @@ GitHub Enterprise / Kubernetes / Docker / gRPC
 
 #### ブロックチェーン
 
-Ethereum / Chainlink(Oracles) / The Graph / IPF
+Ethereum / Chainlink(Oracles) / The Graph / IPFS
 
 #### フロントエンド
 
