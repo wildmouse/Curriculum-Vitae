@@ -94,7 +94,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ### ノーコード案件新規開発(2020/7 ~ 2020/9)
 
-技術スタック: Kubernetes / gRPC / Armeria / Spring Boot / WebFlux / Kotlin 
+技術スタック: Kubernetes / gRPC / Armeria / Spring Boot / WebFlux / Kotlin / プライベートクラウド
 
 プロジェクト概要: ノーコード新規開発
 
@@ -106,7 +106,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ### ユーザーアクションイベント収集基盤構築(2020/5 ~ 2020/6)
 
-技術スタック: Apache Kafka / Elasticsearch / Protobuf / Kotlin / Spring Boot / MySQL 
+技術スタック: Apache Kafka / Elasticsearch / Protobuf / Kotlin / Spring Boot / MySQL / プライベートクラウド
 
 プロジェクト概要: ユーザーアクションイベント収集基盤の構築
 
@@ -118,7 +118,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ### プロダクト予約サイト開発(2019/11 ~ 2020/4)
 
-技術スタック: Kubernetes / gRPC / Armeria / Spring Boot / WebFlux / Rundeck / Kotlin / Docker / Ansible 
+技術スタック: Kubernetes / gRPC / Armeria / Spring Boot / WebFlux / Rundeck / Kotlin / Docker / Ansible / プライベートクラウド
 
 プロジェクト概要: 新規プロダクト予約サイトの新規開発
 
@@ -131,7 +131,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ### 複数のレガシーなオンプレミスSpring Bootアプリケーションの更新及びクラウドへのマイグレーション作業(2019/09 ~ 2019/10)
 
-技術スタック: Java / Spring Boot2 / Ansible / OpenStack 
+技術スタック: Java / Spring Boot2 / Ansible / プライベートクラウド
 
 プロジェクト概要: オンプレミスで稼働しているレガシーアプリケーションのクラウドへのマイグレーション
 
@@ -143,7 +143,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ### ゲームイベントサイト開発サポート(2019/08 ~ 2019/11)
 
-技術スタック: Kotlin / Spring Boot / React / TypeScript / React Hooks / React Testing Library / Ansible / OpenStack
+技術スタック: Kotlin / Spring Boot / React / TypeScript / React Hooks / React Testing Library / Ansible / プライベートクラウド
 
 プロジェクト概要: ゲームの運用がX周年を迎えるに際して開催されるイベント用特設ページの開発
 
@@ -156,7 +156,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ### LP用CMS開発および監視環境・通知アプリケーション開発(2019/06 - 2019/09)
 
-技術スタック: Kotlin / Spring Boot / Ansible / Jenkins / Nginx / Consul / Prometheus / Alertmanager / Grafana / OpenStack / Microservices
+技術スタック: Kotlin / Spring Boot / Ansible / Jenkins / Nginx / Consul / Prometheus / Alertmanager / Grafana / プライベートクラウド
 
 プロジェクト概要: 現場社内で量産しているランディングページの制作コストを削減するためのCMSの構築、およびアプリケーションを監視するための監視環境構築、そして監視のアラートにヒットした際の通知を一元管理する通知アプリケーションの開発。
 
