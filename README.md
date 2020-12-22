@@ -69,6 +69,17 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ## 主な職務経歴
 
+### PoAにおけるコントラクトおよび仮想通貨ウォレット開発(2020/12 ~ 現在)
+
+技術スタック: Solidity / Flutter / Dart 
+
+プロジェクト概要: 
+- PoAネットワークにおけるコントラクトおよび仮想通貨ウォレットの開発
+
+担当業務: 
+- コントラクト開発
+- 仮想通貨ネイティブアプリ開発
+
 ### ソーシャルトークンプラットフォーム開発(2020/10 ~ 現在)
 
 技術スタック: Ethereum / Solidity / Chainlink / The Graph / IPFS
