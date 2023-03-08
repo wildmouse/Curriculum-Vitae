@@ -11,12 +11,11 @@
 
 ## 強み
 
-- 新規開発案件あるいは既存サービスのリプレイス案件において、フロントエンドとバックエンド双方の視点からアーキテクチャやインターフェースを設計するなどの、フルスタックな技術的提案および実装が可能なエンジニアです
-- ブロックチェーン技術においてはEthereumパブリックブロックチェーンを利用したアプリケーションの開発経験があり、また[ETHGlobal主催のハッカソンでの受賞歴](https://twitter.com/wildmouse_/status/1322379103278821376)があります。
+- 新規開発案件あるいは既存サービスのリプレイス案件において、フロントエンドとバックエンド双方の視点からアーキテクチャやインターフェースを設計するなどの、フルスタックな技術的提案および実装が可能です
+- ブロックチェーン技術においては2020年から2年以上のEthereumおよびPolygonを利用したFTおよびNFTのシステム設計段階から実装までの工程の担当実績があり、多様な提案と実現が可能です
 - バックエンドにおいてはKotlin, Java, C#, PHPといった複数の言語の業務経験があり、多言語を用いるマイクロサービスへの柔軟な対応が可能ですし、新しい言語の学習意欲も高いため柔軟に対応することが可能です
 - フロントエンドにおいてはTypeScript, React.js, Next.js(SSR), Vue.js, Nuxt.js(SRR)およびテスティングフレームワークやデザインフレームワークを網羅した幅広いスキルを保有・精通しており、万能に対応することが可能です
 - クラウドにおいては某社プライベートクラウドを用いたクラウド環境の構築経験をもち、DevOpsにおいては監視環境の構築経験があります。また2020年からはKubernetesを用いたアプリケーションの環境構築やジョブ実行システムの構築を担当し、クラウドネイティブの知見も保有しています。
-- また科学的に証明された業務の効率化や集中力の維持方法などについても論文のキュレーターを通して学んでおり、効率的かつ効果的に業務を進めることができます
 
 ## スキル
 
@@ -28,7 +27,7 @@ Solidity / Kotlin / Java / TypeScript / JavaScript / C# / PHP
 ### フレームワーク
 
 #### バックエンド
-Spring Boot / .NET MVC / CakePHP
+Spring Boot / Nestjs / .NET MVC / CakePHP
 
 #### フロントエンド
 React.js / Next.js / Vue.js / Nuxt.js / Jest / Enzyme / jQuery 
@@ -43,7 +42,7 @@ GitHub Enterprise / Kubernetes / Docker / gRPC
 
 #### ブロックチェーン
 
-Ethereum / Chainlink(Oracles) / The Graph / IPFS
+Ethereum / Polygon / Chainlink(Oracles) / The Graph / IPFS
 
 #### フロントエンド
 
@@ -73,7 +72,27 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ## 主な職務経歴
 
-### ソーシャルトークンプラットフォーム開発(2020/10 ~ 現在)
+### ERC998を利用したNFTプロジェクト開発(2022/1 ~ 現在)
+
+プロジェクトページ: [Kumaleon](http://kumaleon.com/)
+
+技術スタック: Ethereum / Solidity / AWS / NestJS / p5.js
+
+プロジェクト概要:
+- 通常のNFT(ERC721規格)の拡張となるERC998規格を利用したNFTのシステム開発
+
+### NFTプロジェクト開発および技術支援(2020/4 ~ 現在)
+
+技術スタック: Ethereum / Polygon / Solidity / The Graph / IPFS / p5.js / Ceramic / IDX
+
+プロジェクト概要:
+- 20を超える複数のNFTプロジェクトにおけるシステム開発
+
+主要プロジェクト: 
+- [Generativemasks](https://generativemasks.io)
+- [Nishikigoi NFT](https://nishikigoi.on.fleek.co)
+
+### ソーシャルトークンプラットフォーム開発(2020/10 ~ 2021/6)
 
 技術スタック: Ethereum / Solidity / Chainlink / The Graph / IPFS
 
@@ -81,7 +100,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 - ソーシャルトークンプラットフォーム開発
 - [ハッカソン時のデモ](https://hack.ethglobal.co/showcase/iroiro-rec1kljmTWH9KjdDG)
 
-### PoAにおけるコントラクトおよび仮想通貨ウォレット開発(2020/12 ~ 現在)
+### PoAにおけるコントラクトおよび仮想通貨ウォレット開発(2020/12 ~ 2021/5)
 
 技術スタック: Solidity / Flutter / Dart 
 
