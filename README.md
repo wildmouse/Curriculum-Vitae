@@ -43,7 +43,7 @@ GitHub Enterprise / Kubernetes / Docker / gRPC
 
 #### ブロックチェーン
 
-Ethereum(EVMs) / Cosmos / Chainlink(Oracles) / The Graph / IPFS
+Ethereum(EVMs) / ZCash / Cosmos / Chainlink(Oracles) / The Graph / IPFS
 
 #### フロントエンド
 
@@ -81,7 +81,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 プロジェクト概要:
 - 自社開発PJに関連するZcashおよびZetaChainなどの他ブロックチェーンの技術調査
-- ゼロ知識証明部分の開発業務
+- Zcashをベースにしたゼロ知識証明でのロジック開発
 - ブロックチェーンユーザーの管理を行うための認証基盤開発
 - ブロックチェーン開発におけるチームマネジメント
 
