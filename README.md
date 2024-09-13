@@ -55,9 +55,9 @@ REST API / Swagger / Nginx / Flyway / SOAP / WebFlux
 
 #### クラウド
 
-AWS ECS, ECR, Lambda, DynamoDB, RDS, ElastiCache 
-GCP Compute Engine, Identity Platform, Cloud Scheduler, CloudRun, Firestore 
-プライベートクラウド(AWS EKS, EC2, RDS, Route 53, S3, ElastiCache, MSK(Kafka), Elasticsearch 相当)
+- AWS EC2, ECS, ECR, Lambda, DynamoDB, RDS, ElastiCache
+- GCP Compute Engine, Identity Platform, Cloud Scheduler, CloudRun, Firestore 
+- プライベートクラウド(AWS EKS, EC2, RDS, Route 53, S3, ElastiCache, Kafka, Elasticsearch 相当)
 
 #### RDB/NoSQL 
 MySQL / PostgreSQL / OracleDB / Elasticsearch / Redis
