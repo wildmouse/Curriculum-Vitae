@@ -12,7 +12,7 @@
 ## 強み
 
 - 新規開発案件あるいは既存サービスのリプレイス案件において、フロントエンドとバックエンド双方の視点からアーキテクチャやインターフェースを設計するなどの、フルスタックな技術的提案および実装が可能です
-- ブロックチェーン技術においては2020年から2年以上のEthereumおよびPolygonを利用したFTおよびNFTのシステム設計段階から実装までの工程の担当実績があり、多様な提案と実現が可能です
+- ブロックチェーン技術においては2020年からEVMでのシステム設計段階から実装までの工程の担当、およびCosmosを用いたブロックチェーン開発経験があり、多様な提案と実現が可能です
 - バックエンドにおいてはKotlin, Java, C#, PHPといった複数の言語の業務経験があり、多言語を用いるマイクロサービスへの柔軟な対応が可能ですし、新しい言語の学習意欲も高いため柔軟に対応することが可能です
 - フロントエンドにおいてはTypeScript, React.js, Next.js(SSR), Vue.js, Nuxt.js(SRR)およびテスティングフレームワークやデザインフレームワークを網羅した幅広いスキルを保有・精通しており、万能に対応することが可能です
 - クラウドにおいては某社プライベートクラウドを用いたクラウド環境の構築経験をもち、DevOpsにおいては監視環境の構築経験があります。また2020年からはKubernetesを用いたアプリケーションの環境構築やジョブ実行システムの構築を担当し、クラウドネイティブの知見も保有しています。
@@ -36,13 +36,14 @@ React.js / Next.js / Vue.js / Nuxt.js / Jest / Enzyme / jQuery
 Flutter
 
 ### その他
+
 #### 全般
 
 GitHub Enterprise / Kubernetes / Docker / gRPC
 
 #### ブロックチェーン
 
-Ethereum / Polygon / Chainlink(Oracles) / The Graph / IPFS
+Ethereum(EVMs) / Cosmos / Chainlink(Oracles) / The Graph / IPFS
 
 #### フロントエンド
 
@@ -54,6 +55,8 @@ REST API / Swagger / Nginx / Flyway / SOAP / WebFlux
 
 #### クラウド
 
+AWS ECS, ECR, Lambda, DynamoDB, RDS, ElastiCache 
+GCP Compute Engine, Identity Platform, Cloud Scheduler, CloudRun, Firestore 
 プライベートクラウド(AWS EKS, EC2, RDS, Route 53, S3, ElastiCache, MSK(Kafka), Elasticsearch 相当)
 
 #### RDB/NoSQL 
@@ -72,7 +75,25 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ## 主な職務経歴
 
-### ERC998を利用したNFTプロジェクト開発(2022/1 ~ 現在)
+### 独自ブロックチェーン構築(2023/8~2024/7)
+
+技術スタック: Zcash / ZetaChain / Cosmos / GCP / ZKP / TSS 
+
+プロジェクト概要:
+- 自社開発PJに関連するZcashおよびZetaChainなどの他ブロックチェーンの技術調査
+- ゼロ知識証明部分の開発業務
+- ブロックチェーンユーザーの管理を行うための認証基盤開発
+- ブロックチェーン開発におけるチームマネジメント
+
+### ブロックチェーンプラットフォーム構築および運用(2023/5~現在)
+
+技術スタック: Ethereum / Oasys / Solidity / AWS 
+
+プロジェクト概要:
+- OptimismフォークのOasys L2を用いたノード構築に関する技術調査および運用
+- プラットフォームに関わるスマートコントラクトの開発および複数プロジェクトのマネジメント
+
+### ERC998を利用したNFTプロジェクト開発(2022/1 ~ 2023/4)
 
 プロジェクトページ: [Kumaleon](http://kumaleon.com/)
 
