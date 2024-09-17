@@ -104,7 +104,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 担当業務: 
 - 通常のNFT(ERC721規格)の拡張となるERC998規格を利用したNFTのシステム開発のプロジェクトマネジメント
 
-### NFTプロジェクト開発および技術支援(2021/4 ~ 現在)
+### NFTプロジェクト開発および技術支援(2021/4 ~ 2023/4)
 
 技術スタック: Ethereum / Polygon / Solidity / The Graph / IPFS / p5.js / Ceramic / IDX
 
