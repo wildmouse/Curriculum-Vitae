@@ -79,7 +79,8 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 技術スタック: Zcash / ZetaChain / Cosmos / GCP / ZKP / TSS 
 
-プロジェクト概要:
+担当業務: 
+
 - 自社開発PJに関連するZcashおよびZetaChainなどの他ブロックチェーンの技術調査
 - Zcashをベースにしたゼロ知識証明でのロジック開発
 - ブロックチェーンユーザーの管理を行うための認証基盤開発
@@ -89,7 +90,8 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 技術スタック: Ethereum / Oasys / Solidity / AWS 
 
-プロジェクト概要:
+担当業務: 
+
 - OptimismフォークのOasys L2を用いたノード構築に関する技術調査および運用
 - プラットフォームに関わるスマートコントラクトの開発および複数プロジェクトのマネジメント
 
@@ -99,8 +101,8 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 技術スタック: Ethereum / Solidity / AWS / NestJS / p5.js
 
-プロジェクト概要:
-- 通常のNFT(ERC721規格)の拡張となるERC998規格を利用したNFTのシステム開発
+担当業務: 
+- 通常のNFT(ERC721規格)の拡張となるERC998規格を利用したNFTのシステム開発のプロジェクトマネジメント
 
 ### NFTプロジェクト開発および技術支援(2021/4 ~ 現在)
 
