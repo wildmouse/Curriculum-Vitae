@@ -22,7 +22,7 @@
 ※業務経験のあるスキルを列挙しています。
 
 ### 言語
-Solidity / Kotlin / Java / TypeScript / JavaScript / C# / PHP
+Solidity / Kotlin / Java / TypeScript / JavaScript / Go / C# / PHP 
 
 ### フレームワーク
 
@@ -43,7 +43,7 @@ GitHub Enterprise / Kubernetes / Docker / gRPC
 
 #### ブロックチェーン
 
-Ethereum(EVMs) / ZCash / Cosmos / Chainlink(Oracles) / The Graph / IPFS
+Ethereum(EVMs) / ZCash / Tendermint / ZetaChain / Chainlink(Oracles) / The Graph / IPFS
 
 #### フロントエンド
 
@@ -77,14 +77,14 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ### 独自ブロックチェーン構築(2023/8~2024/7)
 
-技術スタック: Zcash / ZetaChain / Cosmos / GCP / ZKP / TSS 
+技術スタック: Zcash / ZetaChain / Tendermint / Evmos / Go / GCP / ZKP / TSS 
 
 担当業務: 
 
 - 自社開発PJに関連するZcashおよびZetaChainなどの他ブロックチェーンの技術調査
 - Zcashをベースにしたゼロ知識証明でのロジック開発
 - ブロックチェーンユーザーの管理を行うための認証基盤開発
-- ブロックチェーン開発におけるチームマネジメント
+- ブロックチェーン開発におけるマネジメント業務
 
 ### ブロックチェーンプラットフォーム構築および運用(2023/5~現在)
 
@@ -94,6 +94,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 - OptimismフォークのOasys L2を用いたノード構築に関する技術調査および運用
 - プラットフォームに関わるスマートコントラクトの開発および複数プロジェクトのマネジメント
+- ブロックチェーンに接続する各種プロジェクト連携におけるベンダーコントロール
 
 ### ERC998を利用したNFTプロジェクト開発(2022/1 ~ 2023/4)
 
