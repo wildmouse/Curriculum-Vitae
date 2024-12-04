@@ -13,8 +13,8 @@
 
 - 新規開発案件あるいは既存サービスのリプレイス案件において、フロントエンドとバックエンド双方の視点からアーキテクチャやインターフェースを設計するなどの、フルスタックな技術的提案および実装が可能です
 - ブロックチェーン技術においては2020年からEVMでのシステム設計段階から実装までの工程の担当、およびCosmosを用いたブロックチェーン開発経験があり、多様な提案と実現が可能です
-- バックエンドにおいてはKotlin, Java, C#, PHPといった複数の言語の業務経験があり、多言語を用いるマイクロサービスへの柔軟な対応が可能ですし、新しい言語の学習意欲も高いため柔軟に対応することが可能です
-- フロントエンドにおいてはTypeScript, React.js, Next.js(SSR), Vue.js, Nuxt.js(SRR)およびテスティングフレームワークやデザインフレームワークを網羅した幅広いスキルを保有・精通しており、万能に対応することが可能です
+- バックエンドにおいてはKotlin, Java, C#, PHPといった複数の言語の業務経験があり、多言語を用いるマイクロサービスへの柔軟な対応が可能ですし、新しい言語の学習意欲も高いため柔軟な対応が可能です
+- フロントエンドにおいてはTypeScript, React/Next, Vue/Nuxtおよびテスティングフレームワークやデザインフレームワークを網羅した幅広いスキルを保有・精通しており、万能に対応が可能です
 - クラウドにおいてはAWS, GCPおよびプライベートクラウドを用いたクラウド環境の構築経験をもち、DevOpsにおいては監視環境の構築経験があります。また2020年からはKubernetesを用いたアプリケーションの環境構築やジョブ実行システムの構築を担当し、クラウドネイティブの知見も保有しています。
 
 ## スキル
@@ -63,21 +63,21 @@ REST API / Swagger / Nginx / Flyway / SOAP / WebFlux
 MySQL / PostgreSQL / OracleDB / Elasticsearch / Redis
 
 #### DevOps・監視 
-Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
+Terraform / Consul / Prometheus / Alertmanager / Grafana / GitHub Actions / Jenkins / Ansible
 
 ## 言語
 
 - 日本語: ネイティブ
 - 英語
   - 英語のドキュメントを多少の時間をかけて読み込むことができる
-  - 簡単な日常会話ができる
+  - 日常会話や技術的な会話ができる
   - TOEIC: 725点
 
 ## 主な職務経歴
 
-### 独自ブロックチェーン構築(2023/8~2024/7)
+### 独自ブロックチェーン構築および関連アプリケーション開発(2023/8~2024/7)
 
-技術スタック: Zcash / ZetaChain / Tendermint / Evmos / Go / GCP / ZKP / TSS 
+技術スタック: Zcash / ZetaChain / Tendermint / Evmos / Go / GCP / ZKP / TSS / Terraform 
 
 担当業務: 
 
@@ -88,11 +88,11 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 ### ブロックチェーンプラットフォーム構築および運用(2023/5~現在)
 
-技術スタック: Ethereum / Oasys / Solidity / AWS 
+技術スタック: Ethereum / Oasys / Solidity / AWS / Terraform 
 
 担当業務: 
 
-- OptimismフォークのOasys L2を用いたノード構築に関する技術調査および運用
+- OptimismフォークのOasys L2を用いたノード構築、技術調査および運用
 - プラットフォームに関わるスマートコントラクトの開発および複数プロジェクトのマネジメント
 - ブロックチェーンに接続する各種プロジェクト連携におけるベンダーコントロール
 
@@ -167,7 +167,7 @@ Consul / Prometheus / Alertmanager / Grafana / Jenkins / Ansible
 
 担当業務: 
 
-- KubernetesのJobとRundeck間の連携のための技術的調査及び環境構築・実装
+- Kubernetes関連システムの技術的調査及び環境構築・実装
 - バッチ処理のロジック部分の設計
 - Webサイト側のReactive gRPCによるバックエンドAPIの実装
 - 管理サイト側のデータ設計、フロントエンド及びバックエンドの開発
