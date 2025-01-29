@@ -7,7 +7,8 @@
 |名前|wildmouse|
 |Qiita|[@wildmouse](https://qiita.com/wildmouse)|
 |Twitter|[@wildmouse_](https://twitter.com/wildmouse_)|
-|英語力|TOEIC 725点|
+|Blog|https://wildmouse.dev|
+|英語力|TOEIC 725点(2019年1月)|
 
 ## 強み
 
