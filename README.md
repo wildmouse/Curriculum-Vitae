@@ -73,6 +73,27 @@ Terraform / Consul / Prometheus / Alertmanager / Grafana / GitHub Actions / Jenk
   - 日常会話や技術的な会話ができる
   - TOEIC: 725点(2019年1月時点)
 
+## 社外活動
+
+### アート拠点CCBTでのNFTに関する講義(2023/8) 
+
+シビック・クリエイティブ・ベース東京（CCBT）キャンプ講座でのNFT技術講義および作品制作指導を担当
+
+- 講義概要: https://ccbt.rekibun.or.jp/events/future-ideations-camp02
+
+### NFT論考集への寄稿(2022/11)
+
+NFTについての論考集『THE NEW CREATORECONOMY』へ「オンチェーンNFTがもたらすもの」としてNFT技術とその影響についての論考を寄稿
+
+- 書籍詳細: https://themassage.jp/archives/17039
+
+### メディアアート展示会「Proof of X」の企画運営、およびNFTを用いた作品の制作と展示(2022/4)
+
+NFTを用いたアート作品3点の作品を共同制作の上展示
+
+- 展示会概要: https://proofofx.art/2022
+- 作品(The Ten Thousand, OpenTransfer, Summer & Summer Moments): https://tart.tokyo/crypto-art 
+
 ## 主な職務経歴
 
 ### 独自ブロックチェーン構築および関連アプリケーション開発(2023/8~2024/7)
